@@ -1,0 +1,1 @@
+// Print the factorial of a number n.

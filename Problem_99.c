@@ -1,0 +1,1 @@
+// Create a 2-D array, storing the tables of 2 and 3.

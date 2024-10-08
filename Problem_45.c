@@ -1,0 +1,1 @@
+// Print the table of a number input by the user.

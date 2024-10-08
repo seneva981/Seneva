@@ -1,0 +1,1 @@
+// Print reverse of the table for a number n.

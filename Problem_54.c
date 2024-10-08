@@ -1,0 +1,1 @@
+// Calculate the sum of all numbers between 5 and 50 (including 5 and 50).

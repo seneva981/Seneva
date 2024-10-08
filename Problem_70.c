@@ -1,0 +1,1 @@
+// Write a function to calculate Percentage of a student from marks in Science, Math and Sanskrit. 

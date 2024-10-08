@@ -1,0 +1,1 @@
+// Print sum of first n natural numbers using recursion.

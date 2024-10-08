@@ -1,0 +1,1 @@
+// Write functions to calculate area of a square, a circle and a rectangle.

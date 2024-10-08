@@ -1,0 +1,1 @@
+// Write two functions - one to print "Hello" and second to print "good bye".
